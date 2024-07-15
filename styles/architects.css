@@ -185,8 +185,9 @@
   /* sponsor related styles */
   .sponsor-info{
     max-width: 540px;
-    margin: 50px;
+    margin: 50px auto;
     text-align: center;
+    
   }
   .sponsor-companies{
     display: grid;
@@ -195,6 +196,9 @@
   .sponsor-companies img{
       filter: grayscale(100%);
     }
+    
+    
+
   
 
   /* responsive media query */
